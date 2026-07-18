@@ -57,7 +57,6 @@ I like projects that force me to learn something new, and I'm always experimenti
 > 🔐 Cybersecurity projects coming soon — CTF write-ups, small security tools, or a vulnerable-app lab.
 > 🎮 Unity projects coming soon — prototypes, game jams, or a portfolio game.
 
-*(Pin your best 4-6 repos on your profile — including at least one cybersecurity and one Unity project once you have them public — so they show as cards above this README.)*
 
 ---
 
