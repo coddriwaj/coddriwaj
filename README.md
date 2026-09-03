@@ -15,7 +15,7 @@ I like projects that force me to learn something new, and I'm always experimenti
 ## 🛠️ Tech Stack
 
 **Web — Frontend**
-`React.js` `Next.js` `JavaScript` `HTML` `CSS`
+`React.js` `Next.js` `JavaScript` `HTML` `CSS` 'tailwind.css'
 
 **Web — Backend**
 `Node.js` `Express.js` `Python`
@@ -34,6 +34,9 @@ I like projects that force me to learn something new, and I'm always experimenti
 
 **Tools & Platforms**
 `Git` `GitHub` `VS Code`
+
+**Deployments**
+`vercel` `render`
 
 ## 📂 Featured Projects
 
