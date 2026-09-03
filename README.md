@@ -15,7 +15,7 @@ I like projects that force me to learn something new, and I'm always experimenti
 ## 🛠️ Tech Stack
 
 **Web — Frontend**
-`React.js` `Next.js` `JavaScript` `HTML` `CSS` 'tailwind.css'
+`React.js` `Next.js` `JavaScript` `HTML` `CSS` `Tailwind.CSS` 
 
 **Web — Backend**
 `Node.js` `Express.js` `Python`
